@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Themed Text to Binary Converter",
+  "description": "A sleek, GitHub-themed web application that instantly converts text into its binary representation. Features real-time conversion, a copy-to-clipboard function, and a clean, developer-focused interface.",
+  "requestFramePermissions": []
+}
